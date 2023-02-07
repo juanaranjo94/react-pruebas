@@ -1,0 +1,21 @@
+{
+  "locale": "Español ",
+  "home" : "Inicio",
+  "about" : "Nosotros",
+  "topics" : "Tema",
+  "homePage" : {
+    "title": "Inicio",
+    "text": "Esta es la página de Inicio"
+  },
+  "aboutPage": {
+    "title": "Nosotros",
+    "text": "Esta es la página de Nosotros"
+  },
+  "topicPage": {
+    "select": "Por favor seleccione un Tema",
+    "components" :  "Componentes"
+  },
+  "rendering": "Renderizado",
+  "components" :  "Componentes",
+  "props_v_state": "Estado y Props"
+}

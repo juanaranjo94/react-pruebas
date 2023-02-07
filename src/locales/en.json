@@ -1,0 +1,21 @@
+{
+  "locale": "English",
+  "home" : "Home",
+  "about" : "About",
+  "topics" : "Topics",
+  "homePage" : {
+    "title": "Home",
+    "text": "This is the homepage"
+  },
+  "aboutPage": {
+    "title": "About",
+    "text": "About the project"
+  },
+  "topicPage": {
+    "select": "Please select a topic",
+    "components" :  "Components"
+  },
+  "rendering": "rendering",
+  "components" :  "components",
+  "props_v_state": "props-v-state"
+}
