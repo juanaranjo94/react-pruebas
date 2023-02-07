@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-pruebas/static/css/main.66c17e35.css",
+    "main.js": "/react-pruebas/static/js/main.60a073ca.js",
+    "static/js/787.0cf848dc.chunk.js": "/react-pruebas/static/js/787.0cf848dc.chunk.js",
+    "index.html": "/react-pruebas/index.html",
+    "main.66c17e35.css.map": "/react-pruebas/static/css/main.66c17e35.css.map",
+    "main.60a073ca.js.map": "/react-pruebas/static/js/main.60a073ca.js.map",
+    "787.0cf848dc.chunk.js.map": "/react-pruebas/static/js/787.0cf848dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66c17e35.css",
+    "static/js/main.60a073ca.js"
+  ]
+}

@@ -10,6 +10,7 @@ function Home() {
     <div className="App">
       <div className="App-header">
         <h1>Hola soy {t('locale')}</h1>
+        <p>Probando GH-Pages</p>
       </div>
     </div>
   )
